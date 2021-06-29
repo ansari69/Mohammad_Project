@@ -103,3 +103,4 @@ E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Web\bin\Debug\netcoreapp3.1\M
 E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Web\obj\Debug\netcoreapp3.1\MiniShop.Web.csproj.CoreCompileInputs.cache
 E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Web\obj\Debug\netcoreapp3.1\MiniShop.Web.MvcApplicationPartsAssemblyInfo.cs
 E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Web\obj\Debug\netcoreapp3.1\MiniShop.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Web\bin\Debug\netcoreapp3.1\Logs\log.json

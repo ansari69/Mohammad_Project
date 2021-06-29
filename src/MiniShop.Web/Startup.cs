@@ -93,28 +93,10 @@ namespace MiniShop.Web
 
                 app.UseMiddleware<RequestResponseLoggingMiddleware>();
 
-
             }
 
             app.UseDefaultFiles();
-            app.UseStaticFiles(new StaticFileOptions
-            {
-                ServeUnknownFileTypes = true
-            });
-
-
-            // app.UseMiddleware<CheckRequestMiddleware>();
-
-            app.Use(async (context, next) =>
-            {
-                await next();
-                if (context.Response.StatusCode == 404 && !Path.HasExtension(context.Request.Path.Value))
-                {
-                    context.Request.Path = "/index.html";
-                    await next();
-                }
-            });
-
+     
             app.UseRouting();
 
             app.UseSerilogRequestLogging();

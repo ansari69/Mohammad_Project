@@ -1,0 +1,67 @@
+06/29/2021 20:11:33 [INF] (/HP-PC/11) Now listening on: "https://localhost:5001"
+06/29/2021 20:11:34 [INF] (/HP-PC/11) Now listening on: "http://localhost:5000"
+06/29/2021 20:11:34 [INF] (/HP-PC/11) Application started. Press Ctrl+C to shut down.
+06/29/2021 20:11:34 [INF] (/HP-PC/11) Hosting environment: "Development"
+06/29/2021 20:11:34 [INF] (/HP-PC/11) Content root path: "E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Web"
+06/29/2021 20:11:36 [INF] (/HP-PC/4) HTTP "GET" "/" responded 404 in 20.6397 ms
+06/29/2021 20:14:07 [INF] (/HP-PC/4) Now listening on: "https://localhost:5001"
+06/29/2021 20:14:07 [INF] (/HP-PC/4) Now listening on: "http://localhost:5000"
+06/29/2021 20:14:07 [INF] (/HP-PC/4) Application started. Press Ctrl+C to shut down.
+06/29/2021 20:14:07 [INF] (/HP-PC/4) Hosting environment: "Development"
+06/29/2021 20:14:07 [INF] (/HP-PC/4) Content root path: "E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Web"
+06/29/2021 20:14:09 [INF] (/HP-PC/10) HTTP "GET" "/" responded 404 in 17.5899 ms
+06/29/2021 20:14:37 [INF] (/HP-PC/10) HTTP "POST" "/login" responded 200 in 1300.8629 ms
+06/29/2021 20:15:41 [WRN] (/HP-PC/5) Handled Error Occured: "اطلاعات وارد شده معتبر نمی باشد."
+Stack Trace: "   at MiniShop.Application.Products.Queries.GetImageProduct.GetImageProductQueryHandler.Handle(GetImageProductQuery request, CancellationToken cancellationToken) in E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Application\Products\Queries\GetImageProduct\GetImageProductQueryHandler.cs:line 36
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MiniShop.Web.Controllers.ProductController.GetSingleProduct111Async(String id) in E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Web\Controllers\ProductController.cs:line 243"
+06/29/2021 20:15:41 [INF] (/HP-PC/5) HTTP "GET" "/product/image/acea3603-a46f-435f-9219-9f15e9084812" responded 400 in 769.9129 ms
+06/29/2021 20:18:27 [INF] (/HP-PC/4) Now listening on: "https://localhost:5001"
+06/29/2021 20:18:27 [INF] (/HP-PC/4) Now listening on: "http://localhost:5000"
+06/29/2021 20:18:27 [INF] (/HP-PC/4) Application started. Press Ctrl+C to shut down.
+06/29/2021 20:18:27 [INF] (/HP-PC/4) Hosting environment: "Development"
+06/29/2021 20:18:27 [INF] (/HP-PC/4) Content root path: "E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Web"
+06/29/2021 20:18:30 [INF] (/HP-PC/7) HTTP "GET" "/" responded 404 in 21.6384 ms
+06/29/2021 20:18:54 [INF] (/HP-PC/13) HTTP "POST" "/product/types" responded 401 in 444.5928 ms
+06/29/2021 20:19:00 [INF] (/HP-PC/8) HTTP "POST" "/product/types" responded 401 in 10.6789 ms
+06/29/2021 20:19:26 [INF] (/HP-PC/20) HTTP "POST" "/product/types" responded 200 in 1095.9906 ms
+06/29/2021 20:20:48 [INF] (/HP-PC/4) Now listening on: "https://localhost:5001"
+06/29/2021 20:20:48 [INF] (/HP-PC/4) Now listening on: "http://localhost:5000"
+06/29/2021 20:20:48 [INF] (/HP-PC/4) Application started. Press Ctrl+C to shut down.
+06/29/2021 20:20:48 [INF] (/HP-PC/4) Hosting environment: "Development"
+06/29/2021 20:20:48 [INF] (/HP-PC/4) Content root path: "E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Web"
+06/29/2021 20:20:51 [INF] (/HP-PC/4) HTTP "GET" "/" responded 404 in 13.8470 ms
+06/29/2021 20:20:53 [INF] (/HP-PC/5) HTTP "POST" "/product/types" responded 200 in 1178.9467 ms
+06/29/2021 20:21:21 [INF] (/HP-PC/9) Now listening on: "https://localhost:5001"
+06/29/2021 20:21:21 [INF] (/HP-PC/9) Now listening on: "http://localhost:5000"
+06/29/2021 20:21:21 [INF] (/HP-PC/9) Application started. Press Ctrl+C to shut down.
+06/29/2021 20:21:21 [INF] (/HP-PC/9) Hosting environment: "Development"
+06/29/2021 20:21:21 [INF] (/HP-PC/9) Content root path: "E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Web"
+06/29/2021 20:21:22 [INF] (/HP-PC/12) HTTP "GET" "/" responded 404 in 22.1484 ms
+06/29/2021 20:22:15 [INF] (/HP-PC/10) HTTP "POST" "/user/upsert" responded 200 in 1076.8144 ms
+06/29/2021 20:25:25 [INF] (/HP-PC/4) HTTP "POST" "/product/types" responded 200 in 633.1631 ms
+06/29/2021 20:28:50 [INF] (/HP-PC/4) Now listening on: "https://localhost:5001"
+06/29/2021 20:28:50 [INF] (/HP-PC/4) Now listening on: "http://localhost:5000"
+06/29/2021 20:28:50 [INF] (/HP-PC/4) Application started. Press Ctrl+C to shut down.
+06/29/2021 20:28:50 [INF] (/HP-PC/4) Hosting environment: "Development"
+06/29/2021 20:28:50 [INF] (/HP-PC/4) Content root path: "E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Web"
+06/29/2021 20:28:55 [INF] (/HP-PC/10) Incoming Request: "https localhost:5001/  "
+06/29/2021 20:28:55 [INF] (/HP-PC/10) HTTP "GET" "/" responded 404 in 14.9193 ms
+06/29/2021 20:28:55 [INF] (/HP-PC/10) Response Length: 5
+06/29/2021 20:28:55 [INF] (/HP-PC/10) 404: 
+06/29/2021 20:29:03 [INF] (/HP-PC/4) Incoming Request: "https localhost:5001/product/types  {
+\"PageId\": \"2\",
+\"EachPerPage\": \"5\",
+\"ProductTypeId\": \"1\",
+\"ProductTypeName\": \"bbb\",
+\"Description\": \"bbbbbbbb\"
+}"
+06/29/2021 20:29:05 [INF] (/HP-PC/9) HTTP "POST" "/product/types" responded 200 in 2145.3488 ms
+06/29/2021 20:29:05 [INF] (/HP-PC/9) Response Length: 266
+06/29/2021 20:29:05 [INF] (/HP-PC/9) 200: {"pageId":1,"totalPages":1,"totalResults":2,"productTypes":[{"productTypeId":"1","productTypeName":"کالای دیجیتال","description":"کالای دیجیتال","isActive":true},{"productTypeId":"2","productTypeName":"لوازم جانبی","description":"لوازم جانبی","isActive":true}]}
+06/29/2021 20:30:56 [INF] (/HP-PC/25) Application is shutting down...

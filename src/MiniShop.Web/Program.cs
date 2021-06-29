@@ -21,11 +21,10 @@ namespace MiniShop.Web
     {
         public static async Task Main(string[] args)
         {
-            CreateHostBuilder(args).Build().Run();
+
             var config = new ConfigurationBuilder()
                  .AddJsonFile("appsettings.json").Build();
 
-            //   public async static void Main(string[] args)
 
             Log.Logger = new LoggerConfiguration()
                 .ReadFrom.Configuration(config)
@@ -44,12 +43,11 @@ namespace MiniShop.Web
                     var userManager = serviceScope.ServiceProvider.GetRequiredService<UserManager<ApplicationUser>>();
                     var roleManager = serviceScope.ServiceProvider.GetRequiredService<RoleManager<ApplicationRole>>();
 
-                    await DataSeeding.SeedBaseDataAsync(context, userManager, roleManager);
 
                     //Base Seeding
                     if (!context.ProductTypes.Any())
                     {
-                      //  await DataSeeding.SeedBaseDataAsync(context, userManager, roleManager);
+                       await DataSeeding.SeedBaseDataAsync(context, userManager, roleManager);
                     }
 
 
@@ -91,8 +89,6 @@ namespace MiniShop.Web
                         await roleManager.AddClaimAsync(managerRole,
                             new Claim(ApplicationClaimsStore.FullAccess.Name, "true"));
 
-                        //await roleManager.AddClaimAsync(,
-                        //    new Claim(ApplicationClaimsStore.Operator.Name, "true"));
 
                         var operatorRole = new ApplicationRole { Name = "اپراتور", IsActive = true };
                         await roleManager.CreateAsync(operatorRole);
@@ -125,23 +121,8 @@ namespace MiniShop.Web
                 Log.CloseAndFlush();
             }
 
-
-
-
         }
 
-
-
-
-
-
-
-        //public static IHostBuilder CreateHostBuilder(string[] args) =>
-        //    Host.CreateDefaultBuilder(args)
-        //        .ConfigureWebHostDefaults(webBuilder =>
-        //        {
-        //            webBuilder.UseStartup<Startup>();
-        //        });
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
            Host.CreateDefaultBuilder(args)
