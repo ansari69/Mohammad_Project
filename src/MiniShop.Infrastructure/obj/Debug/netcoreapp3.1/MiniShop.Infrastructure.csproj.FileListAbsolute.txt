@@ -1,0 +1,14 @@
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Infrastructure\bin\Debug\netcoreapp3.1\MiniShop.Infrastructure.deps.json
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Infrastructure\bin\Debug\netcoreapp3.1\MiniShop.Infrastructure.dll
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Infrastructure\obj\Debug\netcoreapp3.1\MiniShop.Infrastructure.csprojAssemblyReference.cache
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Infrastructure\obj\Debug\netcoreapp3.1\MiniShop.Infrastructure.AssemblyInfoInputs.cache
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Infrastructure\obj\Debug\netcoreapp3.1\MiniShop.Infrastructure.AssemblyInfo.cs
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Infrastructure\bin\Debug\netcoreapp3.1\MiniShop.Infrastructure.pdb
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Infrastructure\bin\Debug\netcoreapp3.1\MiniShop.Application.dll
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Infrastructure\bin\Debug\netcoreapp3.1\MiniShop.Domain.dll
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Infrastructure\bin\Debug\netcoreapp3.1\MiniShop.Application.pdb
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Infrastructure\bin\Debug\netcoreapp3.1\MiniShop.Domain.pdb
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Infrastructure\obj\Debug\netcoreapp3.1\MiniShop.Infrastructure.csproj.CopyComplete
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Infrastructure\obj\Debug\netcoreapp3.1\MiniShop.Infrastructure.dll
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Infrastructure\obj\Debug\netcoreapp3.1\MiniShop.Infrastructure.pdb
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Infrastructure\obj\Debug\netcoreapp3.1\MiniShop.Infrastructure.csproj.CoreCompileInputs.cache

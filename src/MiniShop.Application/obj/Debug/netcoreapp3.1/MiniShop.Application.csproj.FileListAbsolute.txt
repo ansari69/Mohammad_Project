@@ -1,0 +1,15 @@
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Application\bin\Debug\netcoreapp3.1\MiniShop.Application.deps.json
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Application\bin\Debug\netcoreapp3.1\MiniShop.Application.dll
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Application\obj\Debug\netcoreapp3.1\MiniShop.Application.csprojAssemblyReference.cache
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Application\obj\Debug\netcoreapp3.1\MiniShop.Application.AssemblyInfoInputs.cache
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Application\obj\Debug\netcoreapp3.1\MiniShop.Application.AssemblyInfo.cs
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Application\bin\Debug\netcoreapp3.1\MiniShop.Application.runtimeconfig.json
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Application\bin\Debug\netcoreapp3.1\MiniShop.Application.runtimeconfig.dev.json
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Application\obj\Debug\netcoreapp3.1\MiniShop.Application.genruntimeconfig.cache
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Application\bin\Debug\netcoreapp3.1\MiniShop.Application.pdb
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Application\bin\Debug\netcoreapp3.1\MiniShop.Domain.dll
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Application\bin\Debug\netcoreapp3.1\MiniShop.Domain.pdb
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Application\obj\Debug\netcoreapp3.1\MiniShop.Application.csproj.CopyComplete
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Application\obj\Debug\netcoreapp3.1\MiniShop.Application.dll
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Application\obj\Debug\netcoreapp3.1\MiniShop.Application.pdb
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Application\obj\Debug\netcoreapp3.1\MiniShop.Application.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Domain\bin\Debug\netcoreapp3.1\MiniShop.Domain.deps.json
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Domain\bin\Debug\netcoreapp3.1\MiniShop.Domain.dll
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Domain\obj\Debug\netcoreapp3.1\MiniShop.Domain.AssemblyInfoInputs.cache
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Domain\obj\Debug\netcoreapp3.1\MiniShop.Domain.AssemblyInfo.cs
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Domain\bin\Debug\netcoreapp3.1\MiniShop.Domain.pdb
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Domain\obj\Debug\netcoreapp3.1\MiniShop.Domain.csproj.CoreCompileInputs.cache
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Domain\obj\Debug\netcoreapp3.1\MiniShop.Domain.dll
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Domain\obj\Debug\netcoreapp3.1\MiniShop.Domain.pdb
+E:\c# asp project\1\MiniShop\MiniShop\src\MiniShop.Domain\obj\Debug\netcoreapp3.1\MiniShop.Domain.csprojAssemblyReference.cache
