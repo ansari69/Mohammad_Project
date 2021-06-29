@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\MiniShop.Application",
+    "\\src\\MiniShop.Application\\Common",
+    "\\src\\MiniShop.Application\\Common\\Profiles",
+    "\\src\\MiniShop.Web",
+    "\\src\\MiniShop.Web\\Controllers"
+  ],
+  "SelectedNode": "\\src\\MiniShop.Application\\Common\\Profiles\\ProductProfile.cs",
+  "PreviewInSolutionExplorer": true
+}
